@@ -2659,7 +2659,7 @@ Wil je dat KLog dit bestand verwijderd?</translation>
     <message>
         <location filename="../mainwindow.cpp" line="3901"/>
         <source>Download the full log from LoTW ...</source>
-        <translation>Download het complets logboek van LoTW ...</translation>
+        <translation>Download het complete logboek van LoTW ...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3907"/>
